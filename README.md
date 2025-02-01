@@ -1,12 +1,9 @@
 *Project Done by Asad Raza*
 
-`                                               										                          `**#Probability and Statistics**                                                        
-**
-
 
 ![](Aspose.Words.4898a777-70da-4a9e-9e9f-f3e2a15a1ebb.001.jpeg)
 
-**#Probability and Statistics                                                          Gym Analysis and Tracking**
+**Probability and Statistics                                                          Gym Analysis and Tracking**
 **
 
 #
