@@ -217,11 +217,22 @@ Description automatically generated](Aspose.Words.4898a777-70da-4a9e-9e9f-f3e2a1
 1. # Load necessary libraries
 1. library(ggplot2)
 
+![image](https://github.com/user-attachments/assets/8d231df3-d8cb-45a5-881c-627d24cd2757)
+
+
 1. # Define features for visualization
 1. features <- c("Age", "BMI", "Calories\_Burned", "Session\_Duration")
 
+![image](https://github.com/user-attachments/assets/9a32cbef-ab78-430e-a239-dfc712922100)
+
+
 1. # Define attractive light colors for each histogram
 1. colors <- c("lightblue", "lightgreen", "peachpuff", "lavender")
+
+![image](https://github.com/user-attachments/assets/e1b94d95-a738-486f-a562-90571a743768)
+
+![image](https://github.com/user-attachments/assets/2d01af0a-6ea2-46b5-8a35-df8283f7e0a9)
+
 
 1. # Loop through each feature and create individual histograms with specific colors
 1. for (i in seq\_along(features)) {
