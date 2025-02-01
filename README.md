@@ -125,6 +125,9 @@ This dataset includes 12 variable and 879 values of gym members exercise routine
 - # Preview the data
 - head(Gymdata)
 
+- ![image](https://github.com/user-attachments/assets/e365a7c0-7d7f-4a9f-bbb6-d2a90434528e)
+
+
 ![](Aspose.Words.4898a777-70da-4a9e-9e9f-f3e2a15a1ebb.002.jpeg)
 1. # <a name="_toc184337334"></a>**To View the Feature of Data:**
 - str(Gymdata)
